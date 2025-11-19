@@ -1,0 +1,12 @@
+﻿{
+  "name" : "Ottoman Flavoring",
+  "id" : "poss.ottoflavor",
+  "version" : "0.1",
+  "game_id" : "eu5",
+  "picture" : null,
+  "supported_game_version" : "1.0.6",
+  "short_description" : "Some additional flavoring for our favorite Turks.",
+  "tags" : [ "Government and Estates", "Historical" ],
+  "relationships" : [ ],
+  "game_custom_data" : { }
+}
