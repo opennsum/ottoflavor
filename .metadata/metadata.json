@@ -1,12 +1,12 @@
 ﻿{
-  "name" : "Ottoman Flavoring",
-  "id" : "poss.ottoflavor",
-  "version" : "0.1",
+  "name" : "Expanded Ottoman Estates",
+  "id" : "poss.ottomanestates",
+  "version" : "1.0",
   "game_id" : "eu5",
-  "picture" : null,
-  "supported_game_version" : "1.0.6",
+  "picture" : "thumbnail.png",
+  "supported_game_version" : "1.0.9",
   "short_description" : "Some additional flavoring for our favorite Turks.",
-  "tags" : [ "Government and Estates", "Historical" ],
+  "tags" : [ ],
   "relationships" : [ ],
   "game_custom_data" : { }
 }
